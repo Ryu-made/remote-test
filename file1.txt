@@ -2,3 +2,4 @@ Hello git!
 second hello git
 this is cli!
 third is on mybranch
+4th is on mybranch for 'git merge'
