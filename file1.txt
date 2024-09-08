@@ -4,3 +4,4 @@ this is cli!
 third is on mybranch
 4th is on mybranch for 'git merge'
 some hot fix on file1
+기능 1 추가함
